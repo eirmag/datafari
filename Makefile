@@ -9,3 +9,4 @@ run: dependency
 
 clean:
 	mvn clean
+	rm -R mvn-repo
