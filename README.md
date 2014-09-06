@@ -16,7 +16,7 @@ So far, I'd say you just need to have maven and a jdk installed on your computer
 
 ### Optimization
 
-Effective project size from the original project has been reduced from around XXX MB to around 210MB (I've excluded the windows and debian7 folders to compare sizes).
+Effective project size from the original project has been reduced from around 264 MB to around 210MB (I've excluded the windows and debian7 folders to compare sizes).
 
 ### Admin
 
