@@ -108,6 +108,30 @@
                 <asWebapp>true</asWebapp>
                 <contextPath>/datafari-solr</contextPath>
             </webapp>
+            <webapp>
+                <groupId>org.apache.manifoldcf</groupId>
+                <artifactId>mcf-api-service</artifactId>
+                <version>0.0.x</version>
+                <type>war</type>
+                <asWebapp>true</asWebapp>
+                <contextPath>/datafari-mcf-api-service</contextPath>
+            </webapp>
+            <webapp>
+                <groupId>org.apache.manifoldcf</groupId>
+                <artifactId>mcf-authority-service</artifactId>
+                <version>0.0.x</version>
+                <type>war</type>
+                <asWebapp>true</asWebapp>
+                <contextPath>/datafari-mcf-authority-service</contextPath>
+            </webapp>
+            <webapp>
+                <groupId>org.apache.manifoldcf</groupId>
+                <artifactId>mcf-crawler-ui</artifactId>
+                <version>0.0.x</version>
+                <type>war</type>
+                <asWebapp>true</asWebapp>
+                <contextPath>/datafari-mcf-crawler-ui</contextPath>
+            </webapp>
         </webapps>
                     <path>/Datafari</path>
                     <port>8080</port>
